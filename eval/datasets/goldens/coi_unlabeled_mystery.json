@@ -1,0 +1,14 @@
+{
+  "document_id": "coi_unlabeled_mystery",
+  "doc_type": "coi",
+  "_draft": true,
+  "top_level_fields": {
+    "insured_name": null,
+    "certificate_holder": null,
+    "producer": null,
+    "carrier": null,
+    "description_of_operations": null,
+    "coverage_count": null
+  },
+  "coverages": []
+}

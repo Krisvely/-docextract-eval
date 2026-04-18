@@ -1,0 +1,58 @@
+{
+  "document_id": "binder_travelers_temp",
+  "doc_type": "temporary_coverage_binder",
+  "top_level_fields": {
+    "carrier": "The Travelers Indemnity Company",
+    "insured_name": "Riverside Logistics LLC",
+    "insured_dba": "Riverside Last-Mile",
+    "insured_address": "2200 Port Avenue, Building D, Elizabeth, NJ 07206",
+    "producer_name": "Riverside Commercial Insurance Group",
+    "producer_address": "220 Riverside Drive, Suite 400, Newark, NJ 07102",
+    "producer_contact_email": "certs@riversidecommercial.com",
+    "producer_contact_phone": "(973) 555-0166",
+    "binder_number": "BND-TRV-2025-0312",
+    "binding_authority_reference": "TBA-2024-44",
+    "anticipated_policy_number": "TRV-CP-2025-8801",
+    "naic_number": "25658",
+    "binder_effective_date": "2025-03-12",
+    "binder_expiration_date": "2025-04-11",
+    "binder_term_days": 30,
+    "interim_premium": 4125.0,
+    "additional_insured": "Metro Development Partners",
+    "additional_insured_applies_to": "GL policy",
+    "contract_date": "2025-03-10",
+    "authority_agreement_effective_date": "2024-07-01",
+    "producer_signatory": "Lucia Hernandez, AOR",
+    "producer_countersign_date": "2025-03-12",
+    "carrier_countersign_date": "2025-03-12",
+    "page_count": 2
+  },
+  "coverages": [
+    {
+      "coverage_name": "Commercial General Liability",
+      "binder_policy_number": "TRV-GL-2025-8801-BND",
+      "effective_date": "2025-03-12",
+      "expiration_date": "2025-04-11",
+      "limits": {
+        "each_occurrence": 1000000,
+        "general_aggregate": 2000000,
+        "products_completed_operations_aggregate": 2000000
+      }
+    },
+    {
+      "coverage_name": "Automobile Liability",
+      "binder_policy_number": "TRV-CA-2025-8801-BND",
+      "effective_date": "2025-03-12",
+      "expiration_date": "2025-04-11",
+      "limits": {
+        "combined_single_limit": 1000000
+      }
+    }
+  ],
+  "description_of_operations": "Newly acquired subsidiary. 30-day binder pending full policy issuance. Operations: third-party logistics, last-mile delivery, and small-package warehousing.",
+  "conditions": [
+    "This binder is not a policy of insurance. It confirms that temporary coverage is in effect between the dates shown above, subject to the terms, conditions, and exclusions of the anticipated policy.",
+    "The full policy is expected to issue on or before the binder expiration date. If the full policy is not issued by 2025-04-11, coverage under this binder terminates automatically at 12:01 AM on that date.",
+    "Premium: interim premium of $4,125 due on bind. Final premium will be computed at policy issuance based on audited exposures."
+  ]
+}

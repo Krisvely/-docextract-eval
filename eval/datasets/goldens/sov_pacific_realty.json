@@ -1,0 +1,68 @@
+{
+  "document_id": "sov_pacific_realty",
+  "doc_type": "statement_of_values",
+  "_draft": true,
+  "top_level_fields": {
+    "insured_name": "Pacific Realty Group Inc.",
+    "carrier": "Zurich Insurance",
+    "policy_number": "ZRH-2025-CA-77230",
+    "policy_effective_date": "2025-07-15",
+    "policy_expiration_date": "2026-07-15",
+    "total_insured_value": 31800000.0,
+    "location_count": 4
+  },
+  "locations": [
+    {
+      "location_number": 1,
+      "address": "1500 Wilshire Boulevard, Los Angeles, CA 90017",
+      "construction_type": "fire-resistive",
+      "construction_class": null,
+      "year_built": 2006,
+      "square_feet": 74000,
+      "occupancy": "office",
+      "building_value": 9000000.0,
+      "contents_value": 2800000.0,
+      "business_income_value": 1000000.0,
+      "location_tiv": 12800000.0
+    },
+    {
+      "location_number": 2,
+      "address": "600 California Street, San Francisco, CA 94108",
+      "construction_type": "fire-resistive",
+      "construction_class": null,
+      "year_built": 1999,
+      "square_feet": 61000,
+      "occupancy": "office",
+      "building_value": 7000000.0,
+      "contents_value": 2000000.0,
+      "business_income_value": 500000.0,
+      "location_tiv": 9500000.0
+    },
+    {
+      "location_number": 3,
+      "address": "2200 NW Glisan Street, Portland, OR 97210",
+      "construction_type": "masonry",
+      "construction_class": null,
+      "year_built": 1988,
+      "square_feet": 46000,
+      "occupancy": "retail",
+      "building_value": 4000000.0,
+      "contents_value": 1200000.0,
+      "business_income_value": 300000.0,
+      "location_tiv": 5500000.0
+    },
+    {
+      "location_number": 4,
+      "address": "1250 4th Avenue, Seattle, WA 98101",
+      "construction_type": "frame",
+      "construction_class": null,
+      "year_built": null,
+      "square_feet": null,
+      "occupancy": "mixed-use",
+      "building_value": 2800000.0,
+      "contents_value": 900000.0,
+      "business_income_value": 300000.0,
+      "location_tiv": 4000000.0
+    }
+  ]
+}

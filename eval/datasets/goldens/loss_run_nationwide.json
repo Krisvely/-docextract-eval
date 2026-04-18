@@ -1,0 +1,51 @@
+{
+  "document_id": "loss_run_nationwide",
+  "doc_type": "loss_run",
+  "_draft": true,
+  "top_level_fields": {
+    "insured_name": "Summit Property Management",
+    "carrier": "Nationwide Insurance",
+    "policy_number": "NAT-CP-2023-991022",
+    "policy_effective_date": "2023-01-15",
+    "valuation_date": "2026-02-28",
+    "total_paid": 342750.0,
+    "total_recoveries": null,
+    "total_incurred": 487200.0,
+    "loss_ratio": 0.672,
+    "claim_count": 8
+  },
+  "claims": [
+    {
+      "claim_number": "CLM-2023-001",
+      "incurred": 35000.0
+    },
+    {
+      "claim_number": "CLM-2023-014",
+      "incurred": 48500.0
+    },
+    {
+      "claim_number": "CLM-2023-027",
+      "incurred": 8250.0
+    },
+    {
+      "claim_number": "CLM-2024-003",
+      "incurred": 72000.0
+    },
+    {
+      "claim_number": "CLM-2024-011",
+      "incurred": 95000.0
+    },
+    {
+      "claim_number": "CLM-2024-022",
+      "incurred": 16500.0
+    },
+    {
+      "claim_number": "CLM-2024-035",
+      "incurred": 109950.0
+    },
+    {
+      "claim_number": "CLM-2025-002",
+      "incurred": 102000.0
+    }
+  ]
+}

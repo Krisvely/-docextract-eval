@@ -1,0 +1,16 @@
+{
+  "document_id": "loss_run_libertymutual",
+  "doc_type": "loss_run",
+  "top_level_fields": {
+    "insured_name": "Crescent Industrial Holdings Inc.",
+    "carrier": "Liberty Mutual Insurance",
+    "policy_number": "LM-CP-2021-887412",
+    "policy_effective_date": "2021-01-01",
+    "valuation_date": "2026-02-28",
+    "total_paid": 6293450.71,
+    "total_recoveries": 45195.03,
+    "total_incurred": 6816076.98,
+    "loss_ratio": 0.503,
+    "claim_count": 24
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "documents": [
+    {
+      "document_id": "loss_run_libertymutual",
+      "path": "fixtures/loss_run_libertymutual.pdf",
+      "doc_type": "loss_run",
+      "golden_path": "eval/datasets/goldens/loss_run_libertymutual.json"
+    },
+    {
+      "document_id": "loss_run_nationwide",
+      "path": "data/documents/loss_run_nationwide.json",
+      "doc_type": "loss_run",
+      "golden_path": "eval/datasets/goldens/loss_run_nationwide.json"
+    },
+    {
+      "document_id": "binder_travelers_temp",
+      "path": "data/ground_truth/binder_travelers_temp.json",
+      "doc_type": "binder",
+      "golden_path": "eval/datasets/goldens/binder_travelers_temp.json"
+    },
+    {
+      "document_id": "sov_acme_properties",
+      "path": "data/documents/sov_acme_properties.json",
+      "doc_type": "sov",
+      "golden_path": "eval/datasets/goldens/sov_acme_properties.json"
+    },
+    {
+      "document_id": "sov_keystone_reit",
+      "path": "data/documents/sov_keystone_reit.json",
+      "doc_type": "sov",
+      "golden_path": "eval/datasets/goldens/sov_keystone_reit.json"
+    },
+    {
+      "document_id": "sov_pacific_realty",
+      "path": "data/documents/sov_pacific_realty.json",
+      "doc_type": "sov",
+      "golden_path": "eval/datasets/goldens/sov_pacific_realty.json"
+    },
+    {
+      "document_id": "coi_hartford_general",
+      "path": "data/documents/coi_hartford_general.json",
+      "doc_type": "coi",
+      "golden_path": "eval/datasets/goldens/coi_hartford_general.json"
+    },
+    {
+      "document_id": "coi_travelers_umbrella",
+      "path": "data/documents/coi_travelers_umbrella.json",
+      "doc_type": "coi",
+      "golden_path": "eval/datasets/goldens/coi_travelers_umbrella.json"
+    },
+    {
+      "document_id": "coi_zurich_legacy",
+      "path": "data/documents/coi_zurich_legacy.json",
+      "doc_type": "coi",
+      "golden_path": "eval/datasets/goldens/coi_zurich_legacy.json"
+    },
+    {
+      "document_id": "coi_unlabeled_mystery",
+      "path": "data/documents/coi_unlabeled_mystery.json",
+      "doc_type": "coi",
+      "golden_path": "eval/datasets/goldens/coi_unlabeled_mystery.json"
+    },
+    {
+      "document_id": "endorsement_chubb_tiv_increase",
+      "path": "data/documents/endorsement_chubb_tiv_increase.json",
+      "doc_type": "endorsement",
+      "golden_path": "eval/datasets/goldens/endorsement_chubb_tiv_increase.json"
+    }
+  ]
+}

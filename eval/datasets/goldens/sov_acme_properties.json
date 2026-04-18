@@ -1,0 +1,94 @@
+{
+  "document_id": "sov_acme_properties",
+  "doc_type": "statement_of_values",
+  "_draft": true,
+  "top_level_fields": {
+    "insured_name": "Acme Properties LLC",
+    "carrier": "Hartford Financial Services",
+    "policy_number": "SPP-2025-CT-44891",
+    "policy_effective_date": "2025-03-01",
+    "policy_expiration_date": "2026-03-01",
+    "total_insured_value": 47250000.0,
+    "location_count": 6
+  },
+  "locations": [
+    {
+      "location_number": 1,
+      "address": "101 Main Street, Hartford, CT 06103",
+      "construction_type": "fire-resistive",
+      "construction_class": null,
+      "year_built": 1998,
+      "square_feet": 82000,
+      "occupancy": "office",
+      "building_value": 9000000.0,
+      "contents_value": 2500000.0,
+      "business_income_value": 1000000.0,
+      "location_tiv": 12500000.0
+    },
+    {
+      "location_number": 2,
+      "address": "450 Park Avenue, Suite 300, Stamford, CT 06901",
+      "construction_type": "masonry",
+      "construction_class": null,
+      "year_built": 1985,
+      "square_feet": 54000,
+      "occupancy": "retail",
+      "building_value": 6500000.0,
+      "contents_value": 1500000.0,
+      "business_income_value": 750000.0,
+      "location_tiv": 8750000.0
+    },
+    {
+      "location_number": 3,
+      "address": "220 West 47th Street, New York, NY 10036",
+      "construction_type": "fire-resistive",
+      "construction_class": null,
+      "year_built": 2004,
+      "square_feet": 68000,
+      "occupancy": "office",
+      "building_value": 8000000.0,
+      "contents_value": 2000000.0,
+      "business_income_value": 1000000.0,
+      "location_tiv": 11000000.0
+    },
+    {
+      "location_number": 4,
+      "address": "15 Maple Drive, White Plains, NY 10605",
+      "construction_type": "frame",
+      "construction_class": null,
+      "year_built": 1978,
+      "square_feet": 41000,
+      "occupancy": "warehouse",
+      "building_value": 3200000.0,
+      "contents_value": 1000000.0,
+      "business_income_value": 300000.0,
+      "location_tiv": 4500000.0
+    },
+    {
+      "location_number": 5,
+      "address": "800 Raritan Avenue, Edison, NJ 08817",
+      "construction_type": "masonry",
+      "construction_class": null,
+      "year_built": 1992,
+      "square_feet": 58000,
+      "occupancy": "warehouse",
+      "building_value": 4800000.0,
+      "contents_value": 1400000.0,
+      "business_income_value": 300000.0,
+      "location_tiv": 6500000.0
+    },
+    {
+      "location_number": 6,
+      "address": "120 River Road, Jersey City, NJ 07310",
+      "construction_type": "fire-resistive",
+      "construction_class": null,
+      "year_built": 2011,
+      "square_feet": null,
+      "occupancy": "mixed-use",
+      "building_value": 2800000.0,
+      "contents_value": 900000.0,
+      "business_income_value": 300000.0,
+      "location_tiv": 4000000.0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "coi_zurich_legacy",
+  "doc_type": "coi",
+  "_draft": true,
+  "top_level_fields": {
+    "insured_name": "Harbor Logistics Group LLC",
+    "certificate_holder": "Atlantic Storage Trust",
+    "producer": "Seaboard Commercial Insurance Brokers",
+    "carrier": "Zurich North America",
+    "description_of_operations": "Third-party logistics services — warehousing, pick-and-pack, and LTL transportation. Certificate holder named as additional insured on GL and auto per written contract between Harbor Logistics Group LLC and Atlantic Storage Trust dated 2022-08-15.",
+    "coverage_count": 3
+  },
+  "coverages": [
+    {
+      "coverage_type": "general_liability",
+      "policy_number": "ZUR-GL-2022-4412",
+      "carrier": "Zurich North America",
+      "effective_date": "2022-09-01",
+      "expiration_date": "2023-09-01",
+      "each_occurrence_limit": 1000000.0,
+      "general_aggregate_limit": 2000000.0,
+      "products_completed_ops": 1000000.0
+    },
+    {
+      "coverage_type": "auto",
+      "policy_number": "ZUR-BA-2022-4412",
+      "carrier": "Zurich North America",
+      "effective_date": "2022-09-01",
+      "expiration_date": "2023-09-01",
+      "each_occurrence_limit": 1000000.0,
+      "general_aggregate_limit": null,
+      "products_completed_ops": null
+    },
+    {
+      "coverage_type": "umbrella",
+      "policy_number": "ZUR-UM-2022-9981",
+      "carrier": "Zurich North America",
+      "effective_date": "2022-09-01",
+      "expiration_date": "2023-09-01",
+      "each_occurrence_limit": 5000000.0,
+      "general_aggregate_limit": 5000000.0,
+      "products_completed_ops": null
+    }
+  ]
+}
